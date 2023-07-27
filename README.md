@@ -1,1 +1,2 @@
 # Hotel_Management_System
+The project hotel management system is a web based application that allow the Hotel Manager to handle all hotel activities online.This application is pretty simple and easy to use the whole system is built with Java with the help of intelliJ IDEA. Hotel management project provides room booking, party hall booking, staff management and other necessary hotel management features. The system is all from the admin side. Admin has full access to the system.
